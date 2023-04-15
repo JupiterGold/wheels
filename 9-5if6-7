@@ -3,10 +3,10 @@
 # (5,6,7,8,9) will repeat on 2 lines with full 5if5 coverage.
 # (6,7,8,9) will repeat on 3 lines with full 4if4 and 5if6 coverage.
 # (6,7,8) will repeat on 4 lines with full 3if3 coverage.
-1	2	3	4	5	6			
-1	2	3	4	5	7		
-1	2	3	4	5	9
-1	2 4	6	7	8	
-1	5	6	7	8	9
-2	3	6	7	8	9
-4	5	6	7	8	9
+1,2,3,4,5,6			
+1,2,3,4,5,7		
+1,2,3,4,5,9
+1,2,4,6,7,8	
+1,5,6,7,8,9
+2,3,6,7,8,9
+4,5,6,7,8,9
