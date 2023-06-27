@@ -1,0 +1,65 @@
+# 01-02-03 | 04-05-06 | 07-08-09 | 10-11-12 
+# 13-14-15-16-17-18-19-20-21-22-23-24
+# A 5# winning line 
+# is guaranteed if one group of bankers(3) is correct and the 
+# remaining three winning numbers are among the twelve.  A 4# 
+# winning line is guaranteed if one group of bankers(3) has two 
+# numbers correct and the remaining three winning numbers are 
+# among the twelve.
+
+01 02 03 13 15 16
+01 02 03 13 17 24
+01 02 03 13 21 23
+01 02 03 14 18 19
+01 02 03 14 19 20
+01 02 03 14 19 22
+01 02 03 15 17 21
+01 02 03 15 23 24
+01 02 03 16 17 23
+01 02 03 16 21 24
+01 02 03 18 20 22
+04 05 06 13 14 16
+04 05 06 13 16 19
+04 05 06 13 16 24
+04 05 06 14 19 24
+04 05 06 15 17 23
+04 05 06 15 18 21
+04 05 06 15 20 22
+04 05 06 17 18 20
+04 05 06 17 21 22
+04 05 06 18 22 23
+04 05 06 20 21 23
+07 08 09 13 15 24
+07 08 09 13 17 18
+07 08 09 13 19 23
+07 08 09 14 16 21
+07 08 09 14 20 22
+07 08 09 15 17 23
+07 08 09 15 18 19
+07 08 09 16 20 22
+07 08 09 17 19 24
+07 08 09 18 23 24
+07 08 09 20 21 22
+10 11 12 13 15 22
+10 11 12 13 19 22
+10 11 12 13 21 22
+10 11 12 14 16 18
+10 11 12 14 17 20
+10 11 12 14 23 24
+10 11 12 15 19 21
+10 11 12 16 17 24
+10 11 12 16 20 23
+10 11 12 17 18 23
+10 11 12 18 20 24
+# Any two sets of bankers correct, guaranteed jackpot.
+# Any one set of three and a set of two, guaranteed 5# line.
+# Any one set of three and a single number, guaranteed 4# line.
+# Any six winning numbers among the twelve, guaranteed 4# line.
+01 02 03 04 05 06
+01 02 03 07 08 09
+01 02 03 10 11 12
+04 05 06 07 08 09
+04 05 06 10 11 12
+07 08 09 10 11 12
+
+
