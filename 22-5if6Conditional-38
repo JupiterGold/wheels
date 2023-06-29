@@ -5,6 +5,18 @@
 # remaining three winning numbers are among the ten.  A 4# 
 # winning line is guaranteed if one group of bankers(3) has two 
 # numbers correct and the remaining three winning numbers are among the ten.
+# Number of occurrences of the 10 numbers
+#  Number 1: 4 occurrences
+#  Number 2: 3 occurrences
+#  Number 3: 4 occurrences
+#  Number 4: 3 occurrences
+#  Number 5: 4 occurrences
+#  Number 6: 3 occurrences
+#  Number 7: 3 occurrences
+#  Number 8: 3 occurrences
+#  Number 9: 3 occurrences
+#  Number 10: 9 occurrences
+#  Place the best number in 10th, 5th and 1st
 01 02 03 13 16 19
 01 02 03 13 17 21
 01 02 03 14 15 22
